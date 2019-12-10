@@ -87,17 +87,3 @@ class DataType:
     @classmethod
     def delete_tql_datatype(cls,attrib_name):
         delattr(cls, attrib_name)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
